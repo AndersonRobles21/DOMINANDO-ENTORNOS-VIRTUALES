@@ -1,3 +1,4 @@
+Python 3.13 
 # Entornos virtuales creados
 Proyecto A
 Nombre del entorno: venv_1
@@ -17,7 +18,7 @@ Proyecto A — Jupyter
 pip install jupyter
 pip freeze > requirements.txt
 
-Proyecto B — Pandas
+Proyect B — Pandas
 pip install pandas
 pip freeze > requirements.txt
 
@@ -29,5 +30,4 @@ Proyecto B
 python src/algoritmo_b1.py
 python src/algoritmo_b2.py
 
-![Uploading image.png…]()
 
